@@ -4,7 +4,7 @@ This's a simple wiki project.
 
 Make by layui and ssm.
 
-About chm online.
+For chm or other api read online.
 
 The wiki for myself.
 
